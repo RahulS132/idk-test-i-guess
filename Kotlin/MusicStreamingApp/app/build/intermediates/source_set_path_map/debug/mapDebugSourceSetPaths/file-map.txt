@@ -1,0 +1,51 @@
+com.example.musicstream.app-lifecycle-livedata-core-ktx-2.8.4-0 /Users/rahul/.gradle/caches/9.0.0/transforms/0119e5113b6cd3178a879e8722d24081/transformed/lifecycle-livedata-core-ktx-2.8.4/res
+com.example.musicstream.app-cardview-1.0.0-1 /Users/rahul/.gradle/caches/9.0.0/transforms/06084b8a98c6c71bf7938cc97fdc3586/transformed/cardview-1.0.0/res
+com.example.musicstream.app-emoji2-views-helper-1.3.0-2 /Users/rahul/.gradle/caches/9.0.0/transforms/0752be4736a763f5a6886247b99eb3cf/transformed/emoji2-views-helper-1.3.0/res
+com.example.musicstream.app-core-ktx-1.13.1-3 /Users/rahul/.gradle/caches/9.0.0/transforms/0810bdc06a986b9b25bb72e9f2baf188/transformed/core-ktx-1.13.1/res
+com.example.musicstream.app-window-1.0.0-4 /Users/rahul/.gradle/caches/9.0.0/transforms/100b04d8708b863db2ca2ada0f480aad/transformed/window-1.0.0/res
+com.example.musicstream.app-fragment-1.8.2-5 /Users/rahul/.gradle/caches/9.0.0/transforms/13b915cb2e64ce72c2c363fb20b2813b/transformed/fragment-1.8.2/res
+com.example.musicstream.app-transition-1.5.0-6 /Users/rahul/.gradle/caches/9.0.0/transforms/20424211f6d1903bc85d10e381864771/transformed/transition-1.5.0/res
+com.example.musicstream.app-fragment-ktx-1.8.2-7 /Users/rahul/.gradle/caches/9.0.0/transforms/25377edf08a027be75999560a6a04d3b/transformed/fragment-ktx-1.8.2/res
+com.example.musicstream.app-navigation-ui-2.8.5-8 /Users/rahul/.gradle/caches/9.0.0/transforms/39dfcc302c802e60eff2d20d036d532a/transformed/navigation-ui-2.8.5/res
+com.example.musicstream.app-savedstate-ktx-1.2.1-9 /Users/rahul/.gradle/caches/9.0.0/transforms/3aea3016ac76432608093db3955d3ef7/transformed/savedstate-ktx-1.2.1/res
+com.example.musicstream.app-customview-poolingcontainer-1.0.0-10 /Users/rahul/.gradle/caches/9.0.0/transforms/3f870f2d900b47019805f9f4deeea61f/transformed/customview-poolingcontainer-1.0.0/res
+com.example.musicstream.app-appcompat-resources-1.7.0-11 /Users/rahul/.gradle/caches/9.0.0/transforms/46872fb7dc4f7ec5347a2e02508fe378/transformed/appcompat-resources-1.7.0/res
+com.example.musicstream.app-navigation-ui-ktx-2.8.5-12 /Users/rahul/.gradle/caches/9.0.0/transforms/4a9b5bbf7e27f34dd949472914beb75e/transformed/navigation-ui-ktx-2.8.5/res
+com.example.musicstream.app-annotation-experimental-1.4.1-13 /Users/rahul/.gradle/caches/9.0.0/transforms/4e368f173352f93cbee9593258248840/transformed/annotation-experimental-1.4.1/res
+com.example.musicstream.app-startup-runtime-1.1.1-14 /Users/rahul/.gradle/caches/9.0.0/transforms/52b48b989201e893f20e3e3c1501da22/transformed/startup-runtime-1.1.1/res
+com.example.musicstream.app-coordinatorlayout-1.1.0-15 /Users/rahul/.gradle/caches/9.0.0/transforms/53d6347c9f370f843b702e09eef19ee2/transformed/coordinatorlayout-1.1.0/res
+com.example.musicstream.app-emoji2-1.3.0-16 /Users/rahul/.gradle/caches/9.0.0/transforms/68c1fb0fa3f21b3c776932b776341b41/transformed/emoji2-1.3.0/res
+com.example.musicstream.app-core-runtime-2.2.0-17 /Users/rahul/.gradle/caches/9.0.0/transforms/6be41b682b532c49c00110300d98bf41/transformed/core-runtime-2.2.0/res
+com.example.musicstream.app-recyclerview-1.3.2-18 /Users/rahul/.gradle/caches/9.0.0/transforms/7049477681f3caf64ec6406f027c89da/transformed/recyclerview-1.3.2/res
+com.example.musicstream.app-navigation-fragment-2.8.5-19 /Users/rahul/.gradle/caches/9.0.0/transforms/73ce2bdfb71180613ecfc51a5e1f861e/transformed/navigation-fragment-2.8.5/res
+com.example.musicstream.app-activity-ktx-1.9.1-20 /Users/rahul/.gradle/caches/9.0.0/transforms/7949bf19244c6622c2684f0a09f9317f/transformed/activity-ktx-1.9.1/res
+com.example.musicstream.app-navigation-common-2.8.5-21 /Users/rahul/.gradle/caches/9.0.0/transforms/7a3a8c0bac11150c56cef53cc0bcb12f/transformed/navigation-common-2.8.5/res
+com.example.musicstream.app-lifecycle-livedata-2.8.4-22 /Users/rahul/.gradle/caches/9.0.0/transforms/7cdf01c4e3ffcfed6a3bcd0bfd7e7fd3/transformed/lifecycle-livedata-2.8.4/res
+com.example.musicstream.app-activity-1.9.1-23 /Users/rahul/.gradle/caches/9.0.0/transforms/8d264633df3db354c384ab51053a019d/transformed/activity-1.9.1/res
+com.example.musicstream.app-lifecycle-viewmodel-savedstate-2.8.4-24 /Users/rahul/.gradle/caches/9.0.0/transforms/975e17add78bd0630449f2403b5849c1/transformed/lifecycle-viewmodel-savedstate-2.8.4/res
+com.example.musicstream.app-appcompat-1.7.0-25 /Users/rahul/.gradle/caches/9.0.0/transforms/981da7c7e61486b875744deb0fdd54b4/transformed/appcompat-1.7.0/res
+com.example.musicstream.app-navigation-runtime-2.8.5-26 /Users/rahul/.gradle/caches/9.0.0/transforms/9e126f8c331f916c725c557026ecd8bb/transformed/navigation-runtime-2.8.5/res
+com.example.musicstream.app-profileinstaller-1.3.1-27 /Users/rahul/.gradle/caches/9.0.0/transforms/a1cd58591700acee017b1daecb6ffa67/transformed/profileinstaller-1.3.1/res
+com.example.musicstream.app-lifecycle-process-2.8.4-28 /Users/rahul/.gradle/caches/9.0.0/transforms/a483116a8dd591b4ab7cab91a3a36902/transformed/lifecycle-process-2.8.4/res
+com.example.musicstream.app-lifecycle-runtime-release-29 /Users/rahul/.gradle/caches/9.0.0/transforms/a60013133abb7dd444a7008b7cb02705/transformed/lifecycle-runtime-release/res
+com.example.musicstream.app-lifecycle-runtime-ktx-release-30 /Users/rahul/.gradle/caches/9.0.0/transforms/accb3ab6bf5d0a24711be035f82f88f6/transformed/lifecycle-runtime-ktx-release/res
+com.example.musicstream.app-constraintlayout-2.1.4-31 /Users/rahul/.gradle/caches/9.0.0/transforms/b1871d6c3e5fa662d2152d7328062e49/transformed/constraintlayout-2.1.4/res
+com.example.musicstream.app-lifecycle-viewmodel-ktx-2.8.4-32 /Users/rahul/.gradle/caches/9.0.0/transforms/c2c5cdcff2c19d878de40c069653c1e6/transformed/lifecycle-viewmodel-ktx-2.8.4/res
+com.example.musicstream.app-lifecycle-livedata-core-2.8.4-33 /Users/rahul/.gradle/caches/9.0.0/transforms/c3be9ae43d323a7826f8d575d218488c/transformed/lifecycle-livedata-core-2.8.4/res
+com.example.musicstream.app-navigation-runtime-ktx-2.8.5-34 /Users/rahul/.gradle/caches/9.0.0/transforms/c6cf993bb8b7f4905b784f1546921b1e/transformed/navigation-runtime-ktx-2.8.5/res
+com.example.musicstream.app-viewpager2-1.1.0-beta02-35 /Users/rahul/.gradle/caches/9.0.0/transforms/c7203cb6ceb7b6db852012ff9843d4dc/transformed/viewpager2-1.1.0-beta02/res
+com.example.musicstream.app-material-1.12.0-36 /Users/rahul/.gradle/caches/9.0.0/transforms/c8115296d881b4546ad92aee048a624d/transformed/material-1.12.0/res
+com.example.musicstream.app-core-1.13.1-37 /Users/rahul/.gradle/caches/9.0.0/transforms/d5a6cc9f1d7b940b6663fe4383bd4ff3/transformed/core-1.13.1/res
+com.example.musicstream.app-slidingpanelayout-1.2.0-38 /Users/rahul/.gradle/caches/9.0.0/transforms/e0ce2adff2f08357a816e1aa0d1b9a50/transformed/slidingpanelayout-1.2.0/res
+com.example.musicstream.app-savedstate-1.2.1-39 /Users/rahul/.gradle/caches/9.0.0/transforms/e1fe91a50a4bbb1790dca8e4446a084c/transformed/savedstate-1.2.1/res
+com.example.musicstream.app-navigation-fragment-ktx-2.8.5-40 /Users/rahul/.gradle/caches/9.0.0/transforms/e7ae5a6bbeb3171dac4bd6f10b46544b/transformed/navigation-fragment-ktx-2.8.5/res
+com.example.musicstream.app-navigation-common-ktx-2.8.5-41 /Users/rahul/.gradle/caches/9.0.0/transforms/ee40f9c36422b312460c6376b9d0f391/transformed/navigation-common-ktx-2.8.5/res
+com.example.musicstream.app-lifecycle-viewmodel-release-42 /Users/rahul/.gradle/caches/9.0.0/transforms/f0ab1913fda9bfce00593481c02294eb/transformed/lifecycle-viewmodel-release/res
+com.example.musicstream.app-drawerlayout-1.1.1-43 /Users/rahul/.gradle/caches/9.0.0/transforms/faa0e576ef8bb975dd6fe114dfbc2822/transformed/drawerlayout-1.1.1/res
+com.example.musicstream.app-pngs-44 /Users/rahul/Library/Application Support/Claude/local-agent-mode-sessions/33a66fee-8c24-44e7-981c-0da7d4a4ac59/3c39cc98-f52a-4831-9de2-c15fffd343bd/local_5f0609fe-96d9-443e-8fae-5c7113ede2ae/outputs/MusicStreamingApp/app/build/generated/res/pngs/debug
+com.example.musicstream.app-resValues-45 /Users/rahul/Library/Application Support/Claude/local-agent-mode-sessions/33a66fee-8c24-44e7-981c-0da7d4a4ac59/3c39cc98-f52a-4831-9de2-c15fffd343bd/local_5f0609fe-96d9-443e-8fae-5c7113ede2ae/outputs/MusicStreamingApp/app/build/generated/res/resValues/debug
+com.example.musicstream.app-packageDebugResources-46 /Users/rahul/Library/Application Support/Claude/local-agent-mode-sessions/33a66fee-8c24-44e7-981c-0da7d4a4ac59/3c39cc98-f52a-4831-9de2-c15fffd343bd/local_5f0609fe-96d9-443e-8fae-5c7113ede2ae/outputs/MusicStreamingApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.musicstream.app-packageDebugResources-47 /Users/rahul/Library/Application Support/Claude/local-agent-mode-sessions/33a66fee-8c24-44e7-981c-0da7d4a4ac59/3c39cc98-f52a-4831-9de2-c15fffd343bd/local_5f0609fe-96d9-443e-8fae-5c7113ede2ae/outputs/MusicStreamingApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.musicstream.app-debug-48 /Users/rahul/Library/Application Support/Claude/local-agent-mode-sessions/33a66fee-8c24-44e7-981c-0da7d4a4ac59/3c39cc98-f52a-4831-9de2-c15fffd343bd/local_5f0609fe-96d9-443e-8fae-5c7113ede2ae/outputs/MusicStreamingApp/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.musicstream.app-debug-49 /Users/rahul/Library/Application Support/Claude/local-agent-mode-sessions/33a66fee-8c24-44e7-981c-0da7d4a4ac59/3c39cc98-f52a-4831-9de2-c15fffd343bd/local_5f0609fe-96d9-443e-8fae-5c7113ede2ae/outputs/MusicStreamingApp/app/src/debug/res
+com.example.musicstream.app-main-50 /Users/rahul/Library/Application Support/Claude/local-agent-mode-sessions/33a66fee-8c24-44e7-981c-0da7d4a4ac59/3c39cc98-f52a-4831-9de2-c15fffd343bd/local_5f0609fe-96d9-443e-8fae-5c7113ede2ae/outputs/MusicStreamingApp/app/src/main/res

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="ink_black">#171a21</color>
+    <color name="prussian_blue">#617073</color>
+    <color name="dusk_blue">#7a93ac</color>
+    <color name="dusty_denim">#92bcea</color>
+    <color name="alabaster_grey">#afb3f7</color>
+    <color name="md_background">@color/ink_black</color>
+    <color name="md_surface">@color/prussian_blue</color>
+    <color name="md_surface_variant">@color/dusk_blue</color>
+    <color name="md_primary">@color/dusty_denim</color>
+    <color name="md_on_primary">@color/ink_black</color>
+    <color name="md_on_background">@color/alabaster_grey</color>
+    <color name="md_on_surface">@color/alabaster_grey</color>
+    <color name="md_on_surface_variant">@color/dusty_denim</color>
+    <color name="md_outline">@color/dusk_blue</color>
+    <color name="overlay_dim">#99171a21</color>
+    <color name="ripple_light">#3392bcea</color>
+</resources>

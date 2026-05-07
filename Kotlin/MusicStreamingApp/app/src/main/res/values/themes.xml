@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base Material 3 dark theme using the custom palette -->
+    <style name="Theme.MusicStreamingApp" parent="Theme.Material3.Dark">
+        <!-- Core Material 3 color tokens -->
+        <item name="colorPrimary">@color/md_primary</item>
+        <item name="colorOnPrimary">@color/md_on_primary</item>
+        <item name="colorPrimaryContainer">@color/dusk_blue</item>
+        <item name="colorOnPrimaryContainer">@color/alabaster_grey</item>
+
+        <item name="colorSecondary">@color/dusty_denim</item>
+        <item name="colorOnSecondary">@color/ink_black</item>
+        <item name="colorSecondaryContainer">@color/dusk_blue</item>
+        <item name="colorOnSecondaryContainer">@color/alabaster_grey</item>
+
+        <item name="colorTertiary">@color/dusty_denim</item>
+        <item name="colorOnTertiary">@color/ink_black</item>
+
+        <item name="android:colorBackground">@color/md_background</item>
+        <item name="colorOnBackground">@color/md_on_background</item>
+
+        <item name="colorSurface">@color/md_surface</item>
+        <item name="colorOnSurface">@color/md_on_surface</item>
+        <item name="colorSurfaceVariant">@color/md_surface_variant</item>
+        <item name="colorOnSurfaceVariant">@color/md_on_surface_variant</item>
+        <item name="colorOutline">@color/md_outline</item>
+
+        <!-- System bars -->
+        <item name="android:statusBarColor">@color/ink_black</item>
+        <item name="android:navigationBarColor">@color/prussian_blue</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+
+        <!-- Typography -->
+        <item name="android:fontFamily">sans-serif</item>
+
+        <!-- Component styles -->
+        <item name="materialButtonStyle">@style/Widget.MusicStream.Button</item>
+        <item name="textInputStyle">@style/Widget.MusicStream.TextInputLayout</item>
+        <item name="bottomNavigationStyle">@style/Widget.MusicStream.BottomNavigation</item>
+        <item name="materialCardViewStyle">@style/Widget.MusicStream.Card</item>
+        <item name="chipStyle">@style/Widget.MusicStream.Chip</item>
+    </style>
+
+    <style name="Theme.MusicStreamingApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- Buttons -->
+    <style name="Widget.MusicStream.Button" parent="Widget.Material3.Button">
+        <item name="android:textColor">@color/ink_black</item>
+        <item name="backgroundTint">@color/dusty_denim</item>
+        <item name="cornerRadius">14dp</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:letterSpacing">0.02</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Widget.MusicStream.Button.Outlined" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="android:textColor">@color/alabaster_grey</item>
+        <item name="strokeColor">@color/dusk_blue</item>
+        <item name="cornerRadius">14dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="Widget.MusicStream.Button.Text" parent="Widget.Material3.Button.TextButton">
+        <item name="android:textColor">@color/dusty_denim</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <!-- Text input -->
+    <style name="Widget.MusicStream.TextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/dusk_blue</item>
+        <item name="boxBackgroundColor">@color/prussian_blue</item>
+        <item name="hintTextColor">@color/dusty_denim</item>
+        <item name="android:textColorHint">@color/dusty_denim</item>
+        <item name="boxCornerRadiusBottomEnd">14dp</item>
+        <item name="boxCornerRadiusBottomStart">14dp</item>
+        <item name="boxCornerRadiusTopEnd">14dp</item>
+        <item name="boxCornerRadiusTopStart">14dp</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="boxStrokeWidthFocused">2dp</item>
+        <item name="materialThemeOverlay">@style/ThemeOverlay.MusicStream.TextInput</item>
+    </style>
+
+    <style name="ThemeOverlay.MusicStream.TextInput" parent="">
+        <item name="colorPrimary">@color/dusty_denim</item>
+        <item name="colorOnSurface">@color/alabaster_grey</item>
+        <item name="colorControlActivated">@color/dusty_denim</item>
+    </style>
+
+    <!-- Bottom navigation -->
+    <style name="Widget.MusicStream.BottomNavigation" parent="Widget.Material3.BottomNavigationView">
+        <item name="backgroundTint">@color/prussian_blue</item>
+        <item name="itemIconTint">@color/bottom_nav_item_color</item>
+        <item name="itemTextColor">@color/bottom_nav_item_color</item>
+        <item name="itemActiveIndicatorStyle">@style/Widget.MusicStream.BottomNavigation.ActiveIndicator</item>
+        <item name="elevation">8dp</item>
+        <item name="labelVisibilityMode">labeled</item>
+    </style>
+
+    <style name="Widget.MusicStream.BottomNavigation.ActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/dusk_blue</item>
+    </style>
+
+    <!-- Cards -->
+    <style name="Widget.MusicStream.Card" parent="Widget.Material3.CardView.Filled">
+        <item name="cardBackgroundColor">@color/prussian_blue</item>
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">0dp</item>
+        <item name="strokeColor">@color/dusk_blue</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="rippleColor">@color/ripple_light</item>
+    </style>
+
+    <!-- Chips -->
+    <style name="Widget.MusicStream.Chip" parent="Widget.Material3.Chip.Assist">
+        <item name="chipBackgroundColor">@color/dusk_blue</item>
+        <item name="android:textColor">@color/alabaster_grey</item>
+        <item name="chipStrokeColor">@color/dusty_denim</item>
+        <item name="chipStrokeWidth">1dp</item>
+        <item name="rippleColor">@color/ripple_light</item>
+        <item name="chipCornerRadius">20dp</item>
+    </style>
+
+    <!-- Typography helpers -->
+    <style name="TextAppearance.MusicStream.Display" parent="TextAppearance.Material3.HeadlineMedium">
+        <item name="android:textColor">@color/alabaster_grey</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.MusicStream.Title" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textColor">@color/alabaster_grey</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.MusicStream.SectionTitle" parent="TextAppearance.Material3.TitleMedium">
+        <item name="android:textColor">@color/alabaster_grey</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.MusicStream.Body" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textColor">@color/alabaster_grey</item>
+    </style>
+
+    <style name="TextAppearance.MusicStream.Caption" parent="TextAppearance.Material3.BodySmall">
+        <item name="android:textColor">@color/dusty_denim</item>
+    </style>
+
+    <!-- Shape appearance overlays -->
+    <style name="ShapeAppearance.MusicStream.AlbumCover" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/album_cover_corner</item>
+    </style>
+
+    <!-- Divider -->
+    <style name="Divider.MusicStream" parent="">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_marginStart">56dp</item>
+        <item name="android:background">@color/dusk_blue</item>
+        <item name="android:alpha">0.5</item>
+    </style>
+</resources>

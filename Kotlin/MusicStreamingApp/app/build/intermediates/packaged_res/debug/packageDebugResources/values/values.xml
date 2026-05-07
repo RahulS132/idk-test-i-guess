@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="alabaster_grey">#afb3f7</color>
+    <color name="dusk_blue">#7a93ac</color>
+    <color name="dusty_denim">#92bcea</color>
+    <color name="ink_black">#171a21</color>
+    <color name="md_background">@color/ink_black</color>
+    <color name="md_on_background">@color/alabaster_grey</color>
+    <color name="md_on_primary">@color/ink_black</color>
+    <color name="md_on_surface">@color/alabaster_grey</color>
+    <color name="md_on_surface_variant">@color/dusty_denim</color>
+    <color name="md_outline">@color/dusk_blue</color>
+    <color name="md_primary">@color/dusty_denim</color>
+    <color name="md_surface">@color/prussian_blue</color>
+    <color name="md_surface_variant">@color/dusk_blue</color>
+    <color name="overlay_dim">#99171a21</color>
+    <color name="prussian_blue">#617073</color>
+    <color name="ripple_light">#3392bcea</color>
+    <dimen name="album_card_size">160dp</dimen>
+    <dimen name="album_cover_corner">12dp</dimen>
+    <dimen name="album_cover_size">160dp</dimen>
+    <dimen name="profile_avatar_size">96dp</dimen>
+    <dimen name="profile_avatar_top_size">36dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_xxl">48dp</dimen>
+    <string name="action_continue_google">Continue with Google</string>
+    <string name="action_forgot_password">Forgot Password?</string>
+    <string name="action_start_listening">Start Listening</string>
+    <string name="app_name">SoundWave</string>
+    <string name="cd_album_cover">Album cover</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_logo">App logo</string>
+    <string name="cd_profile_avatar">Profile avatar</string>
+    <string name="cd_search">Search</string>
+    <string name="error_email_invalid">Enter a valid email</string>
+    <string name="error_email_required">Email is required</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_password_short">Password must be at least 6 characters</string>
+    <string name="genre_alternative">Alternative</string>
+    <string name="genre_art_rock">Art Rock</string>
+    <string name="genre_death_metal">Death Metal</string>
+    <string name="genre_math_rock">Math Rock</string>
+    <string name="genre_prog_metal">Progressive Metal</string>
+    <string name="genre_prog_rock">Progressive Rock</string>
+    <string name="greeting_afternoon">Good afternoon</string>
+    <string name="greeting_evening">Good evening</string>
+    <string name="greeting_morning">Good morning</string>
+    <string name="group_account">Account</string>
+    <string name="group_appearance">Appearance</string>
+    <string name="group_notifications">Notifications</string>
+    <string name="group_playback">Playback</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_search">Search songs, artists, albums</string>
+    <string name="login_subtitle">Sign in to keep the music going</string>
+    <string name="login_title">Welcome back</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_search">Search</string>
+    <string name="profile_bio">Music enthusiast • Curating moods since 2018</string>
+    <string name="profile_username">Rahul Sigdel</string>
+    <string name="section_favorite_genres">Favorite Genres</string>
+    <string name="section_made_for_you">Made for You</string>
+    <string name="section_new_releases">New Releases</string>
+    <string name="section_recently_played">Recently Played</string>
+    <string name="section_trending">Trending Now</string>
+    <string name="settings_audio_quality">Audio Quality</string>
+    <string name="settings_audio_quality_value">High (256 kbps)</string>
+    <string name="settings_change_password">Change Password</string>
+    <string name="settings_download_wifi">Download over Wi-Fi only</string>
+    <string name="settings_edit_profile">Edit Profile</string>
+    <string name="settings_logout">Logout</string>
+    <string name="settings_push">Push Notifications</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_value">Dark</string>
+    <string name="title_settings">Settings</string>
+    <style name="Divider.MusicStream" parent="">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_marginStart">56dp</item>
+        <item name="android:background">@color/dusk_blue</item>
+        <item name="android:alpha">0.5</item>
+    </style>
+    <style name="ShapeAppearance.MusicStream.AlbumCover" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/album_cover_corner</item>
+    </style>
+    <style name="TextAppearance.MusicStream.Body" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textColor">@color/alabaster_grey</item>
+    </style>
+    <style name="TextAppearance.MusicStream.Caption" parent="TextAppearance.Material3.BodySmall">
+        <item name="android:textColor">@color/dusty_denim</item>
+    </style>
+    <style name="TextAppearance.MusicStream.Display" parent="TextAppearance.Material3.HeadlineMedium">
+        <item name="android:textColor">@color/alabaster_grey</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextAppearance.MusicStream.SectionTitle" parent="TextAppearance.Material3.TitleMedium">
+        <item name="android:textColor">@color/alabaster_grey</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextAppearance.MusicStream.Title" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textColor">@color/alabaster_grey</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Theme.MusicStreamingApp" parent="Theme.Material3.Dark">
+        
+        <item name="colorPrimary">@color/md_primary</item>
+        <item name="colorOnPrimary">@color/md_on_primary</item>
+        <item name="colorPrimaryContainer">@color/dusk_blue</item>
+        <item name="colorOnPrimaryContainer">@color/alabaster_grey</item>
+
+        <item name="colorSecondary">@color/dusty_denim</item>
+        <item name="colorOnSecondary">@color/ink_black</item>
+        <item name="colorSecondaryContainer">@color/dusk_blue</item>
+        <item name="colorOnSecondaryContainer">@color/alabaster_grey</item>
+
+        <item name="colorTertiary">@color/dusty_denim</item>
+        <item name="colorOnTertiary">@color/ink_black</item>
+
+        <item name="android:colorBackground">@color/md_background</item>
+        <item name="colorOnBackground">@color/md_on_background</item>
+
+        <item name="colorSurface">@color/md_surface</item>
+        <item name="colorOnSurface">@color/md_on_surface</item>
+        <item name="colorSurfaceVariant">@color/md_surface_variant</item>
+        <item name="colorOnSurfaceVariant">@color/md_on_surface_variant</item>
+        <item name="colorOutline">@color/md_outline</item>
+
+        
+        <item name="android:statusBarColor">@color/ink_black</item>
+        <item name="android:navigationBarColor">@color/prussian_blue</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+
+        
+        <item name="android:fontFamily">sans-serif</item>
+
+        
+        <item name="materialButtonStyle">@style/Widget.MusicStream.Button</item>
+        <item name="textInputStyle">@style/Widget.MusicStream.TextInputLayout</item>
+        <item name="bottomNavigationStyle">@style/Widget.MusicStream.BottomNavigation</item>
+        <item name="materialCardViewStyle">@style/Widget.MusicStream.Card</item>
+        <item name="chipStyle">@style/Widget.MusicStream.Chip</item>
+    </style>
+    <style name="Theme.MusicStreamingApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="ThemeOverlay.MusicStream.TextInput" parent="">
+        <item name="colorPrimary">@color/dusty_denim</item>
+        <item name="colorOnSurface">@color/alabaster_grey</item>
+        <item name="colorControlActivated">@color/dusty_denim</item>
+    </style>
+    <style name="Widget.MusicStream.BottomNavigation" parent="Widget.Material3.BottomNavigationView">
+        <item name="backgroundTint">@color/prussian_blue</item>
+        <item name="itemIconTint">@color/bottom_nav_item_color</item>
+        <item name="itemTextColor">@color/bottom_nav_item_color</item>
+        <item name="itemActiveIndicatorStyle">@style/Widget.MusicStream.BottomNavigation.ActiveIndicator</item>
+        <item name="elevation">8dp</item>
+        <item name="labelVisibilityMode">labeled</item>
+    </style>
+    <style name="Widget.MusicStream.BottomNavigation.ActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/dusk_blue</item>
+    </style>
+    <style name="Widget.MusicStream.Button" parent="Widget.Material3.Button">
+        <item name="android:textColor">@color/ink_black</item>
+        <item name="backgroundTint">@color/dusty_denim</item>
+        <item name="cornerRadius">14dp</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:letterSpacing">0.02</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Widget.MusicStream.Button.Outlined" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="android:textColor">@color/alabaster_grey</item>
+        <item name="strokeColor">@color/dusk_blue</item>
+        <item name="cornerRadius">14dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="Widget.MusicStream.Button.Text" parent="Widget.Material3.Button.TextButton">
+        <item name="android:textColor">@color/dusty_denim</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="Widget.MusicStream.Card" parent="Widget.Material3.CardView.Filled">
+        <item name="cardBackgroundColor">@color/prussian_blue</item>
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">0dp</item>
+        <item name="strokeColor">@color/dusk_blue</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="rippleColor">@color/ripple_light</item>
+    </style>
+    <style name="Widget.MusicStream.Chip" parent="Widget.Material3.Chip.Assist">
+        <item name="chipBackgroundColor">@color/dusk_blue</item>
+        <item name="android:textColor">@color/alabaster_grey</item>
+        <item name="chipStrokeColor">@color/dusty_denim</item>
+        <item name="chipStrokeWidth">1dp</item>
+        <item name="rippleColor">@color/ripple_light</item>
+        <item name="chipCornerRadius">20dp</item>
+    </style>
+    <style name="Widget.MusicStream.TextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/dusk_blue</item>
+        <item name="boxBackgroundColor">@color/prussian_blue</item>
+        <item name="hintTextColor">@color/dusty_denim</item>
+        <item name="android:textColorHint">@color/dusty_denim</item>
+        <item name="boxCornerRadiusBottomEnd">14dp</item>
+        <item name="boxCornerRadiusBottomStart">14dp</item>
+        <item name="boxCornerRadiusTopEnd">14dp</item>
+        <item name="boxCornerRadiusTopStart">14dp</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="boxStrokeWidthFocused">2dp</item>
+        <item name="materialThemeOverlay">@style/ThemeOverlay.MusicStream.TextInput</item>
+    </style>
+</resources>

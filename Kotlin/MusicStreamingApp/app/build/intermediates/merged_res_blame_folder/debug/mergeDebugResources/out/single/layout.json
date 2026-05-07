@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-mergeDebugResources-47:/layout/fragment_home.xml",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-mergeDebugResources-47:/layout/item_album.xml",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/item_album.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-mergeDebugResources-47:/layout/include_settings_row.xml",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/include_settings_row.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-mergeDebugResources-47:/layout/activity_login.xml",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-mergeDebugResources-47:/layout/include_settings_row_switch.xml",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/include_settings_row_switch.xml"
+    },
+    {
+        "merged": "com.example.musicstream.app-mergeDebugResources-47:/layout/item_album.xml",
+        "source": "com.example.musicstream.app-main-50:/layout/item_album.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-mergeDebugResources-47:/layout/fragment_settings.xml",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-mergeDebugResources-47:/layout/fragment_profile.xml",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-mergeDebugResources-47:/layout/include_settings_row_value.xml",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/include_settings_row_value.xml"
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/xml_backup_rules.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_cover_muting_noise.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/cover_muting_noise.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_cover_in_rainbows.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/cover_in_rainbows.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_cover_kid_a.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/cover_kid_a.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_bg_login_glow.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/bg_login_glow.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_art_10000_days.jpg.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/art_10000_days.jpg"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_art_hail_to_thief.jpg.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/art_hail_to_thief.jpg"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_ic_email.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/layout_activity_main.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_art_in_rainbows.jpg.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/art_in_rainbows.jpg"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_ic_lock.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/layout_include_settings_row_value.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/include_settings_row_value.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/layout_activity_login.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_art_new_levels.jpg.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/art_new_levels.jpg"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_ic_notifications.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_art_blackwater_park.jpg.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/art_blackwater_park.jpg"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/menu_bottom_menu.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/menu_menu_profile.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/menu/menu_profile.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/layout_item_album.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/item_album.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_art_kid_a.jpg.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/art_kid_a.jpg"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_ic_album_placeholder.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/ic_album_placeholder.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_bg_search_pill.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/bg_search_pill.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_cover_hail_to_thief.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/cover_hail_to_thief.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_bg_login_gradient.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/bg_login_gradient.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_ic_logo.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_cover_a_moon_shaped_pool.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/cover_a_moon_shaped_pool.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/color_bottom_nav_item_color.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/color/bottom_nav_item_color.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_ic_account.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/ic_account.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_cover_new_levels.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/cover_new_levels.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_ic_logout.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_cover_blackwater_park.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/cover_blackwater_park.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/layout_include_settings_row.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/include_settings_row.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_cover_undertow.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/cover_undertow.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_ic_chevron_right.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/layout_include_settings_row_switch.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/include_settings_row_switch.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_ic_home.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_ic_library.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/ic_library.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_ic_search.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_cover_remember_die.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/cover_remember_die.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/layout_fragment_home.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/layout_fragment_settings.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.musicstream.app-debug-48:/layout_item_album.xml.flat",
+        "source": "com.example.musicstream.app-main-50:/layout/item_album.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_art_deliverance.jpg.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/art_deliverance.jpg"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/navigation_nav_graph.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_cover_fear_innoculum.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/cover_fear_innoculum.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_cover_10000_days.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/cover_10000_days.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_ic_google.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/ic_google.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_ic_tune.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/ic_tune.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_bg_avatar_circle.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/bg_avatar_circle.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_art_ghost_reveries.jpg.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/art_ghost_reveries.jpg"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_art_lateralus.jpg.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/art_lateralus.jpg"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_cover_ok_computer.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/cover_ok_computer.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_art_fear_inoculum.jpg.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/art_fear_inoculum.jpg"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_bg_album_placeholder.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/bg_album_placeholder.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_ic_palette.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/ic_palette.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_cover_lateralus.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/cover_lateralus.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_ic_person.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_art_a_moon_shaped_pool.jpg.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/art_a_moon_shaped_pool.jpg"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_art_ok_computer.jpg.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/art_ok_computer.jpg"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_ic_back.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_cover_ghost_reveries.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/cover_ghost_reveries.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/drawable_cover_deliverance.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/drawable/cover_deliverance.xml"
+    },
+    {
+        "merged": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-debug-48:/layout_fragment_profile.xml.flat",
+        "source": "/Users/rahul/.gradle/daemon/9.0.0/com.example.musicstream.app-main-50:/layout/fragment_profile.xml"
+    }
+]

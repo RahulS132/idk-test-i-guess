@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="@string/nav_home" />
+
+    <item
+        android:id="@+id/searchDestination"
+        android:icon="@drawable/ic_search"
+        android:title="@string/nav_search" />
+
+    <item
+        android:id="@+id/libraryDestination"
+        android:icon="@drawable/ic_library"
+        android:title="@string/nav_library" />
+
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/ic_tune"
+        android:title="@string/title_settings" />
+</menu>

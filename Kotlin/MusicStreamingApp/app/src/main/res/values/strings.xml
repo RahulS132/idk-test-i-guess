@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SoundWave</string>
+
+    <!-- Login -->
+    <string name="login_title">Welcome back</string>
+    <string name="login_subtitle">Sign in to keep the music going</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="action_start_listening">Start Listening</string>
+    <string name="action_forgot_password">Forgot Password?</string>
+    <string name="action_continue_google">Continue with Google</string>
+    <string name="error_email_required">Email is required</string>
+    <string name="error_email_invalid">Enter a valid email</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_password_short">Password must be at least 6 characters</string>
+
+    <!-- Home -->
+    <string name="greeting_morning">Good morning</string>
+    <string name="greeting_afternoon">Good afternoon</string>
+    <string name="greeting_evening">Good evening</string>
+    <string name="hint_search">Search songs, artists, albums</string>
+    <string name="section_trending">Trending Now</string>
+    <string name="section_new_releases">New Releases</string>
+    <string name="section_made_for_you">Made for You</string>
+
+    <!-- Profile -->
+    <string name="profile_username">Rahul Sigdel</string>
+    <string name="profile_bio">Music enthusiast • Curating moods since 2018</string>
+    <string name="section_favorite_genres">Favorite Genres</string>
+    <string name="section_recently_played">Recently Played</string>
+    <string name="genre_prog_rock">Progressive Rock</string>
+    <string name="genre_alternative">Alternative</string>
+    <string name="genre_prog_metal">Progressive Metal</string>
+    <string name="genre_math_rock">Math Rock</string>
+    <string name="genre_art_rock">Art Rock</string>
+    <string name="genre_death_metal">Death Metal</string>
+
+    <!-- Settings -->
+    <string name="title_settings">Settings</string>
+    <string name="group_account">Account</string>
+    <string name="group_playback">Playback</string>
+    <string name="group_notifications">Notifications</string>
+    <string name="group_appearance">Appearance</string>
+    <string name="settings_edit_profile">Edit Profile</string>
+    <string name="settings_change_password">Change Password</string>
+    <string name="settings_logout">Logout</string>
+    <string name="settings_audio_quality">Audio Quality</string>
+    <string name="settings_audio_quality_value">High (256 kbps)</string>
+    <string name="settings_download_wifi">Download over Wi-Fi only</string>
+    <string name="settings_push">Push Notifications</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_value">Dark</string>
+
+    <!-- Bottom nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_library">Library</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_logo">App logo</string>
+    <string name="cd_album_cover">Album cover</string>
+    <string name="cd_profile_avatar">Profile avatar</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_back">Navigate back</string>
+</resources>
