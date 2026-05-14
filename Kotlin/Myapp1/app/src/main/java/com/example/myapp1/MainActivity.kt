@@ -1,5 +1,6 @@
 package com.example.myapp1
 
+import android.content.Intent
 import android.os.Bundle
 import android.util.Log
 import android.widget.Button
@@ -18,16 +19,16 @@ class MainActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
 
-        // 🔹 Connect UI elements
         val email = findViewById<EditText>(R.id.emailInput)
         val password = findViewById<EditText>(R.id.passwordInput)
-        val button = findViewById<Button>(R.id.loginButton)
+        val loginButton = findViewById<Button>(R.id.loginButton)
         val status = findViewById<TextView>(R.id.statusText)
+        val button100 = findViewById<Button>(R.id.button100)
 
         Log.d("Rahul", "App started")
 
-        // 🔹 Button click logic
-        button.setOnClickListener {
+        // 🔹 Login button logic
+        loginButton.setOnClickListener {
             val emailText = email.text.toString()
             val passText = password.text.toString()
 
@@ -41,6 +42,12 @@ class MainActivity : AppCompatActivity() {
                 status.text = "Invalid credentials ❌"
                 Log.d("Rahul", "Login failed")
             }
+        }
+
+        // 🔹 button100 navigation
+        button100.setOnClickListener {
+            val intent = Intent(this, MainActivity2::class.java)
+            startActivity(intent)
         }
     }
 }
