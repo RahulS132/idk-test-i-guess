@@ -1,3 +1,4 @@
+# random is a built-in module for producing random values.
 import random
 
 print('Welcome to Dice Simulator')
@@ -6,10 +7,12 @@ while True:
     ans = input()
     if ans == 'y' or ans == 'Y':
 
+        # randint(1, 6) returns a random integer from 1 through 6.
         comp_roll = random.randint(1, 6)
         print('The Computer Rolled:', comp_roll)
 
     elif ans == 'n' or ans == 'N':
+        # break stops the nearest loop immediately.
         break
 
     print("Do you want to Roll again? (Y/N)")

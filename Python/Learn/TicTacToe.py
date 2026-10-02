@@ -1,5 +1,7 @@
+# This list holds the board spaces. Index 0 is unused so positions are 1-9.
 board = [' ' for x in range(10)]
 
+# Functions group reusable instructions.
 def insertLetter(letter, pos):
     board[pos] = letter
 
@@ -39,17 +41,22 @@ def playerMove():
         except:
             print('Please type a number!')
 def compMove():
+    # A list comprehension builds a list in one line.
+    # enumerate() provides both each index and its value.
     possibleMoves = [x for x, letter in enumerate(board) if letter == ' ' and x != 0]
     move = 0
 
+    # This list contains the two marks the computer may test.
     for let in ['O', 'X']:
         for i in possibleMoves:
+            # [:] makes a shallow copy of the board list.
             boardCopy = board[:]
             boardCopy[i] = let
             if isWinner(boardCopy, let):
                 move = i
                 return move
 
+    # Start with an empty list, then append available corner positions.
     cornersOpen = []
     for i in possibleMoves:
         if i in [1,3,7,9]:
@@ -63,6 +70,7 @@ def compMove():
         move = 5
         return move
 
+    # This list will contain available edge positions.
     edgesOpen = []
     for i in possibleMoves:
         if i in [2,4,6,8]:

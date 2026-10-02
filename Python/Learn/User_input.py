@@ -1,8 +1,11 @@
-age = int(input("Enter Your Age:"))  # int() is used to input integer values. used to calculate.
+# input() returns text; int() converts that text to a whole number.
+age = int(input("Enter Your Age:"))
 tax = 10
+# This adds two integer values and stores the result in now.
 now = age + tax
 print(now)
 
-price = float(input("Enter Your Price:"))  # float() is used to input decimal values.
+# float() converts input text to a number that may contain decimals.
+price = float(input("Enter Your Price:"))
 total = price + tax
 print("Total:", total)

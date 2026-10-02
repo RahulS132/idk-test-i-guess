@@ -1,6 +1,7 @@
 # import random module
 import random
 
+# A string can contain multiple lines when it uses \n between lines.
 # Print multi line instruction
 # Perform string concatenation of string
 print("Winning Rules of the Rock paper scissor game as follows: \n"
@@ -13,7 +14,7 @@ while True:
     # take the input from user
     choice = int(input("User turn: "))
 
-    # OR is the short-circuit operator
+    # or is the short-circuit operator: either condition can be True.
     # if any one of the condition is true
     # then it return True value
     # looping until user enter invalid input
@@ -33,7 +34,7 @@ while True:
     print("user choice is: " + choice_name)
     print("\nNow its computer turn.......")
 
-    # Computer chooses randomly any number
+    # The computer chooses a random number from 1 through 3.
     # among 1 , 2 and 3. Using randint method
     # of random module
     comp_choice = random.randint(1, 3)

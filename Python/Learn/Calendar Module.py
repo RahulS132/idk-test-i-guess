@@ -1,5 +1,6 @@
 import calendar
 
+# Functions from the calendar module return formatted calendar text.
 print(calendar.weekheader(3))
 print()
 
@@ -9,6 +10,7 @@ print()
 print(calendar.month(2020, 1))
 
 print(calendar.monthcalendar(2020, 1))
+# monthcalendar returns a list of weeks; each week is represented by a list of day numbers.
 
 print(calendar.calendar(2020))
 

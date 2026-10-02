@@ -1,6 +1,6 @@
-# Program make a simple calculator
+# This program makes a simple calculator.
 
-# This function adds two numbers
+# A function is reusable code. Parameters receive values from the caller.
 def add(x, y):
     return x + y
 
@@ -25,14 +25,17 @@ print("3.Multiply")
 print("4.Divide")
 
 while True:
-    # Take input from the user
+    # input() reads text typed by the user.
     choice = input("Enter choice(1/2/3/4): ")
 
-    # Check if choice is one of the four options
+    # Parentheses create a tuple: an ordered collection that cannot be changed.
+    # "in" checks whether choice matches one of the tuple's values.
     if choice in ('1', '2', '3', '4'):
+        # float() converts the input text into a decimal number.
         num1 = float(input("Enter first number: "))
         num2 = float(input("Enter second number: "))
 
+        # Only the block matching the selected choice runs.
         if choice == '1':
             print(num1, "+", num2, "=", add(num1, num2))
 

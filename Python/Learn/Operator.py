@@ -1,13 +1,14 @@
+# Variables store values that operators can calculate with.
 y, z = 10, 6
 a = y + z
 b = y - z
 c = y / z
-d = y // z #Divide without remainder
+d = y // z # // divides and rounds down to a whole number.
 e = y*z
-f = y**z #y^(z) "Power"
-g = y^z
-h = y%z
-i = y - y/z * z
+f = y**z # ** raises y to the power of z.
+g = y^z # ^ is bitwise XOR; it is not exponentiation in Python.
+h = y%z # % gives the remainder after division.
+i = y - y/z * z # This combines subtraction, division, and multiplication.
 print("a=", a, type(a))
 print("b=", b, type(b))
 print("c=", c, type(c))
